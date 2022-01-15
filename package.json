@@ -35,7 +35,7 @@
     "classnames": "2.2.6",
     "js-yaml": "3.13.1",
     "json-refs": "^3.0.13",
-    "marked": "0.7.0",
+    "marked": "4.0.10",
     "react-dangerous-html": "1.0.0"
   },
   "peerDependencies": {
